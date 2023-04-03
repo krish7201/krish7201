@@ -5,6 +5,7 @@
             <style>
             h1 {
               font-family: corbel;
+              color: white;
             }
             .name {
                 background: linear-gradient(297deg, #1006ff, #ff0606, #06cbff, #63ff67);
