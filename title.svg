@@ -1,10 +1,11 @@
-<svg fill="none" width="100%" height="10%" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="auto" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <h1 align="center">Hello, my name is <a class="name">Kris</a>!</h1>
             <style>
             h1 {
-              font-family: corbel;
+              font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+              font-size: 60px;
               color: #ffffff;
             }
             .name {
