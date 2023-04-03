@@ -1,5 +1,11 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
 <h1 align="center">Hello, my name is <a class="name">Kris</a>!</h1>
 <style>h1 {font-family: corbel;}.name {background: linear-gradient(297deg, #1006ff, #ff0606, #06cbff, #63ff67);background-size: 800% 800%;-webkit-background-clip: text;-webkit-text-fill-color: transparent;-moz-background-clip: text;-moz-text-fill-color: transparent;-o-background-clip: text;-o-text-fill-color: transparent;background-clip: text;text-fill-color: transparent;-webkit-animation: AnimationName 30s ease infinite;-moz-animation: AnimationName 30s ease infinite;-o-animation: AnimationName 30s ease infinite;animation: AnimationName 30s ease infinite;}@-webkit-keyframes AnimationName {0%{background-position:38% 0%}50%{background-position:63% 100%}100%{background-position:38% 0%}}@-moz-keyframes AnimationName {0%{background-position:38% 0%}50%{background-position:63% 100%}100%{background-position:38% 0%}}@-o-keyframes AnimationName {0%{background-position:38% 0%}50%{background-position:63% 100%}100%{background-position:38% 0%}}@keyframes AnimationName {0%{background-position:38% 0%}50%{background-position:63% 100%}100%{background-position:38% 0%}}</style>
+</div>
+    </foreignObject>
+</svg>
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish7201&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=25282a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
