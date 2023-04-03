@@ -1,10 +1,10 @@
 <svg fill="none" viewBox="0 0 400 100" width="400" height="auto" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <h1 align="center" color="white">Hello, my name is <a class="name">Kris</a>!</h1>
+            <h1 align="center">Hello, my name is <a class="name">Kris</a>!</h1>
             <style>
             h1 {
-              color: white;
+              color: #ffffff;
             }
             .name {
                 background: linear-gradient(297deg, #1006ff, #ff0606, #06cbff, #63ff67);
