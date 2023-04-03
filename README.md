@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/krish7201/krish7201/blob/main/title.svg">
+    <img src="title.svg" height="27.5%" width="100%">
 </div>
 <div align=center>
    
