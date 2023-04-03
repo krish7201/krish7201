@@ -2,7 +2,10 @@
     <img src="https://github.com/krish7201/krish7201/blob/main/something.svg">
 </div>
 <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish7201&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=25282a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+   
+  <!--This guy did an amazing job making these widgets-->
+  <!--https://github.com/anuraghazra/github-readme-stats-->
+  <a href="https://github.com/krish7201?tab=repositories">
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish7201&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=25282a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
   </a>
 </div>
