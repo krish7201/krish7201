@@ -4,7 +4,6 @@
             <h1 align="center">Hello, my name is <a class="name">Kris</a>!</h1>
             <style>
             h1 {
-              font-family: corbel;
               color: white;
             }
             .name {
