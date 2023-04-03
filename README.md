@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="something.svg" width="100%"height="100%">
+    <img src="something.svg">
 </div>
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
