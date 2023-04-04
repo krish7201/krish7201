@@ -1,12 +1,4 @@
 <div align="center"><a color="white" href="https://www.youtube.com/watch?v=FQSEhHh8WQc"><img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="80px" width="100%"></img></a></div>
-
-<div align="center"><a color="white" href="https://www.youtube.com/watch?v=FQSEhHh8WQc">getting that style going onnnnnnn!!!!!!</a><hr></div>
-
-<div align="center">
-    🎓 Associate of Science Degree · Computer Science · Rochester Community and Technical College · Rochester, MN, USA
-    <br>
-    🎓 Bachelor of Science Degree · Computer Science · Winona State University-Rochester · Rochester, MN, USA
-</div>
 <hr>
 <div align=center><a href="https://github.com/krish7201?tab=repositories"><img width=525 align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=25282a&title_color=fff&text_color=fff&border_color=25282a&show_icons=true&icon_color=fff"/><br></a></div>
 <br>
