@@ -1,8 +1,6 @@
-<div align="center"><img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="75px" width="100%"></div>
-<div align="center">
-  <a color="white" href="https://www.youtube.com/watch?v=FQSEhHh8WQc">getting that style going onnnnnnn!!!!!!</a>
-  <hr>
-</div>
+<div align="center"><a color="white" href="https://www.youtube.com/watch?v=FQSEhHh8WQc"><img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="75px" width="100%"></img></a></div>
+
+<div align="center"><a color="white" href="https://www.youtube.com/watch?v=FQSEhHh8WQc">getting that style going onnnnnnn!!!!!!</a><hr></div>
 
 <div align="center">
     🎓 Associate of Science Degree · Computer Science · Rochester Community and Technical College · Rochester, MN, USA
