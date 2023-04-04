@@ -5,10 +5,8 @@
 </div>
 
 <div align="center">
-<dl>
-  <dt>🎓 Associate's Degree · Computer Science · Rochester Community and Technical College · Rochester, MN, USA</dt>
-  <dt>🎓 Bachelor's Degree · Computer Science · Winona State University-Rochester · Rochester, MN, USA</dt>
-</dl>
+  <h4>🎓 Associate's Degree · Computer Science · Rochester Community and Technical College · Rochester, MN, USA</h4>
+  <h4>🎓 Bachelor's Degree · Computer Science · Winona State University-Rochester · Rochester, MN, USA</h4>
 </div>
 <hr>
 <div align=center><a href="https://github.com/krish7201?tab=repositories"><img width=550 align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=25282a&title_color=fff&text_color=fff&border_color=25282a&show_icons=true&icon_color=fff"/><br></a></div>
