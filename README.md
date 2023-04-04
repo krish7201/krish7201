@@ -3,8 +3,12 @@
   <a color="white" href="https://www.youtube.com/watch?v=FQSEhHh8WQc">getting that style going onnnnnnn!!!!!!</a>
   <hr>
 </div>
+
 <div align="center">
-  I graduated with my associates degree in computer science in 2020 from Rochester Community and Technical College in Rochester Minnesota USA and my bachelor's with the same major in 2023 from Winona State University-Rochester also in Rochester Minnesota USA. 
+<dl>
+  <dt>🎓 Associate's Degree · Computer Science · Rochester Community and Technical College · Rochester, MN, USA</dt>
+  <dt>🎓 Bachelor's Degree · Computer Science · Winona State University-Rochester · Rochester, MN, USA</dt>
+</dl>
 </div>
 <hr>
 <div align=center><a href="https://github.com/krish7201?tab=repositories"><img width=550 align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=25282a&title_color=fff&text_color=fff&border_color=25282a&show_icons=true&icon_color=fff"/><br></a></div>
