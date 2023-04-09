@@ -2,7 +2,7 @@
 
 <div align="center"><a href="https://github.com/krish7201?tab=repositories"><img width=auto align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=292c2e&icon_color=fff"/></a></div>
 
-<br>
+<hr></hr>
 
 <div align=center>
 <a href="https://github.com/krish7201/krish7201s-Profile-Picture-Generator"><img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=krish7201s-Profile-Picture-Generator&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=292c2e&show_icons=true"/></img></a>
@@ -11,7 +11,7 @@
 <a href="https://github.com/krish7201/artist-page"><img width= auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=artist-page&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=292c2e&show_icons=true"/></img></a></br><br><img width=750 align="center" alt="Screenshot 2023-04-03 114737" src="https://user-images.githubusercontent.com/44722635/229575279-31c4242d-4aeb-40ea-a9a1-ea4c8851ba5d.png"></img></li>
 </div>
 
-<br>
+<hr></hr>
 
 <div align="center"><a align="center" href="https://visitor-badge.glitch.me"> <img alt="krish7201 github" src="https://visitor-badge.glitch.me/badge?page_id=krish7201.visitor-badge&left_color=gray&right_color=gray&left_text=FELLAS!"></a></div>
 
