@@ -1,4 +1,4 @@
-<div align="center"><a color="white" href="https://www.youtube.com/watch?v=u4xJrcondOA"><img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="80px" width="100%"></img></a></div>
+<div align="center"><a color="white" href="https://www.youtube.com/watch?v=u4xJrcondOA"><img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="120px" width="100%"></img></a></div>
 
 <div align="center"><a href="https://github.com/krish7201?tab=repositories"><img width=auto align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&icon_color=fff"/></a></div>
 
