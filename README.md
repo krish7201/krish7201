@@ -13,6 +13,11 @@
 	<div align=center>
 		<a href="https://github.com/krish7201?tab=repositories">
 			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&icon_color=fff"></img>
+	</div>
+	<br>
+	<div align=center>
+		<a href="https://github.com/krish7201?tab=repositories">
+			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&icon_color=fff"></img>
 		</a>
 	</div>
 </head>
@@ -68,9 +73,6 @@
 <footer>
 	<!--VISITOR COUNT-->
 	<div align="center">
-		<a align="center" href="https://visitor-badge.glitch.me">
-			<img alt="krish7201 github" src="https://visitor-badge.glitch.me/badge?page_id=krish7201.visitor-badge&left_color=gray&right_color=gray&left_text=FELLAS!"></img>
-		</a>
 	</div>
 	<br></br>
 </footer>
