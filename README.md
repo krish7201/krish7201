@@ -21,6 +21,24 @@
 <!--MAIN CONTENT-->
 <body>
 	<div align=center>
+		<!--AWS/GCP WIDGET-->
+		<a href="https://github.com/krish7201/AWS-GCP-Website-Transaction">
+			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=AWS-GCP-Website-Transaction&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		</a>
+		<br></br>
+		<!--AWS/GCP IMAGES-->
+		<img width=500 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229352112-61f05c99-b9cd-4758-85cd-e0b874b3cf65.png"></img>
+		<img width=500 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229352195-d36c7c7a-0b5f-482f-a756-f32fd20f8f35.png"></img>
+		<br></br>
+		<!--CAESAR CIPHER WIDGET-->
+		<a href="https://github.com/krish7201/Caesar-Cipher-gui">
+			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Caesar-Cipher-gui&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		</a>
+		<br></br>
+		<!--CAESAR CIPHER IMAGES-->
+		<img width=250 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229576376-8adf4931-b553-4b20-b65f-d97b0cdac18a.png"></img>
+		<img width=525 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229578036-5b8cddb0-3602-40bd-9b50-e343c934cc98.png"></img>
+		<br></br>
 		<!--PROFILE PICTURE GENERATOR WIDGET-->
 		<a href="https://github.com/krish7201/krish7201s-Profile-Picture-Generator">
 			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=krish7201s-Profile-Picture-Generator&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
@@ -40,7 +58,7 @@
 		</a>
 		<br></br>
 		<!--WEBSITE IMAGES-->
-		<img width=750 align="center" alt="Screenshot 2023-04-03 114737" src="https://user-images.githubusercontent.com/44722635/229575279-31c4242d-4aeb-40ea-a9a1-ea4c8851ba5d.png"></img>
+		<img width=750 align="center" alt="Screenshot Website" src="https://user-images.githubusercontent.com/44722635/229575279-31c4242d-4aeb-40ea-a9a1-ea4c8851ba5d.png"></img>
 	</div>
 </body>
 <!--END MAIN CONTENT-->
