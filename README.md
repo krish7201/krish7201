@@ -73,6 +73,9 @@
 <footer>
 	<!--VISITOR COUNT-->
 	<div align="center">
+		<a align="center" href="https://visitor-badge.glitch.me">
+			<img alt="krish7201 github" src="https://visitor-badge.glitch.me/badge?page_id=krish7201.visitor-badge&left_color=gray&right_color=gray&left_text=Howdy!"></img>
+		</a>
 	</div>
 	<br></br>
 </footer>
