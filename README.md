@@ -12,13 +12,10 @@
 	<!--GITHUB STATS-->
 	<div align=center>
 		<a href="https://github.com/krish7201?tab=repositories">
-			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&icon_color=fff"></img>
-	</div>
-	<br>
-	<div align=center>
-		<a href="https://github.com/krish7201?tab=repositories">
 			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&icon_color=fff"></img>
 		</a>
+		<a href="https://github.com/krish7201?tab=repositories">
+			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&icon_color=fff"></img>
 	</div>
 </head>
 <!--SEPARATOR-->
@@ -73,8 +70,8 @@
 <footer>
 	<!--VISITOR COUNT-->
 	<div align="center">
-		<a align="center" href="https://visitor-badge.glitch.me">
-			<img alt="krish7201 github" src="https://visitor-badge.glitch.me/badge?page_id=krish7201.visitor-badge&left_color=gray&right_color=gray&left_text=Howdy!"></img>
+		<a href="https://visitorbadge.io/">
+			<img width=auto src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkrish7201&label=Howdy!&labelColor=%230a0e12&countColor=%230a0e12&style=default&labelStyle=UPPER">
 		</a>
 	</div>
 	<br></br>
