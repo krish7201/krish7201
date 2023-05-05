@@ -21,9 +21,7 @@
 <!--MAIN CONTENT-->
 <body>
 	<div align=center>
-		<a href="https://github.com/krish7201/Caesar-Cipher-GUI">
-			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Caesar-Cipher-GUI&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
-		</a>
+		
 		<!--PROFILE PICTURE GENERATOR WIDGET-->
 		<a href="https://github.com/krish7201/krish7201s-Profile-Picture-Generator">
 			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=krish7201s-Profile-Picture-Generator&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
