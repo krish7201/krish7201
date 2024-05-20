@@ -30,8 +30,8 @@
 		<br></br>
 		<!--ACASTAT IMAGES-->
 		<img width=250 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/Login.png"></img>
-		<img width=750 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/CreateUser.png"></img>
-		<img width=750 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/Announcement.png"></img>
+		<img width=500 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/CreateUser.png"></img>
+		<img width=500 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/Announcement.png"></img>
 		<img width=250 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/Instructor.png"></img>
 		<br></br>
 		<!--CAESAR CIPHER WIDGET-->
@@ -41,7 +41,7 @@
 		<br></br>
 		<!--CAESAR CIPHER IMAGES-->
 		<img width=250 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229576376-8adf4931-b553-4b20-b65f-d97b0cdac18a.png"></img>
-		<img width=525 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229578036-5b8cddb0-3602-40bd-9b50-e343c934cc98.png"></img>
+		<img width=500 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229578036-5b8cddb0-3602-40bd-9b50-e343c934cc98.png"></img>
 		<br></br>
 		<!--AWS/GCP WIDGET-->
 		<a href="https://github.com/krish7201/AWS-GCP-Website-Transaction">
