@@ -31,6 +31,7 @@
 		<!--ACASTAT IMAGES-->
 		<img width=250 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/Login.png"></img>
 		<img width=750 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/CreateUser.png"></img>
+		<img width=750 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/Announcement.png"></img>
 		<img width=525 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/Instructor.png"></img>
 		<br></br>
 		<!--CAESAR CIPHER WIDGET-->
