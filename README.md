@@ -23,6 +23,15 @@
 <!--MAIN CONTENT-->
 <body>
 	<div align=center>
+		<!--CAESAR CIPHER WIDGET-->
+		<a href="https://github.com/krish7201/Caesar-Cipher-gui">
+			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Caesar-Cipher-gui&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		</a>
+		<br></br>
+		<!--CAESAR CIPHER IMAGES-->
+		<img width=250 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229576376-8adf4931-b553-4b20-b65f-d97b0cdac18a.png"></img>
+		<img width=500 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229578036-5b8cddb0-3602-40bd-9b50-e343c934cc98.png"></img>
+		<br></br>
 		<!--ACASTAT WIDGET-->
 		<a href="https://github.com/krish7201/Acastat">
 			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Acastat&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
@@ -33,15 +42,6 @@
 		<img width=500 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/CreateUser.png"></img>
 		<img width=500 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/Announcement.png"></img>
 		<img width=250 align="center" alt="Acastat GUI" src="https://github.com/krish7201/Acastat/blob/37bd66b3e032ff7847536652d6fb84d9e00754d9/Screenshots/Instructor.png"></img>
-		<br></br>
-		<!--CAESAR CIPHER WIDGET-->
-		<a href="https://github.com/krish7201/Caesar-Cipher-gui">
-			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Caesar-Cipher-gui&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
-		</a>
-		<br></br>
-		<!--CAESAR CIPHER IMAGES-->
-		<img width=250 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229576376-8adf4931-b553-4b20-b65f-d97b0cdac18a.png"></img>
-		<img width=500 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229578036-5b8cddb0-3602-40bd-9b50-e343c934cc98.png"></img>
 		<br></br>
 		<!--AWS/GCP WIDGET-->
 		<a href="https://github.com/krish7201/AWS-GCP-Website-Transaction">
