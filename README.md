@@ -24,8 +24,8 @@
 <body>
 	<div align=center>
 		<!--CAESAR CIPHER WIDGET-->
-		<a href="https://github.com/krish7201/Caesar-Cipher-gui">
-			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Caesar-Cipher-gui&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		<a href="https://github.com/krish7201/CS_466_Cyber_Security_Final_Project">
+			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=CS_466_Cyber_Security_Final_Project&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
 		</a>
 		<br></br>
 		<!--CAESAR CIPHER IMAGES-->
@@ -42,8 +42,8 @@
 		<img width=500 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229352195-d36c7c7a-0b5f-482f-a756-f32fd20f8f35.png"></img>
 		<br></br>
 		<!--PROFILE PICTURE GENERATOR WIDGET-->
-		<a href="https://github.com/krish7201/krish7201s-Profile-Picture-Generator">
-			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=krish7201s-Profile-Picture-Generator&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		<a href="https://github.com/krish7201/Profile-Picture-Generator">
+			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Profile-Picture-Generator&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
 		</a>
 		<br></br>
 		<!--PROFILE PICTURE GENERATOR IMAGES-->
@@ -55,8 +55,8 @@
 		<!--BREAK-->
 		<br></br>
 		<!--WEBSITE WIDGET-->
-		<a href="https://github.com/krish7201/artist-page">
-			<img width= auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=artist-page&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		<a href="https://github.com/krish7201/Generic_Artist_Page">
+			<img width= auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Generic_Artist_Page&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
 		</a>
 		<br></br>
 		<!--WEBSITE IMAGES-->
