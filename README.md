@@ -29,7 +29,7 @@
 		</a>
 		<br></br>
 		<!--krish7201.github.io IMAGES-->
-		<img width=750 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/06e0afa9-8153-4d81-82fd-f0a1d937e331"></img>
+		<embed width=750 align="center" src="http://www.krish7201.github.io">
 		<br></br>
 		<!--CS_466_Software_Engineering_Final_Project WIDGET-->
 		<a href="https://github.com/krish7201/CS_466_Software_Engineering_Final_Project">
