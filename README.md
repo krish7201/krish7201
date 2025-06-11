@@ -28,8 +28,8 @@
 		<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=krish7201.github.io&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
 		</a>
 		<br></br>
-		<!--CAESAR CIPHER IMAGES-->/
-		<img width=525 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/06e0afa9-8153-4d81-82fd-f0a1d937e331"></img>
+		<!--CAESAR CIPHER IMAGES-->
+		<img width=750 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/06e0afa9-8153-4d81-82fd-f0a1d937e331"></img>
 		<br></br>
 		<!--CAESAR CIPHER WIDGET-->
 		<a href="https://github.com/krish7201/CS_466_Cyber_Security_Final_Project">
