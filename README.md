@@ -40,6 +40,15 @@
 		<img width=750 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/e71bd03c-820d-4c30-84c6-7cefc4e57e7b"></img>
 		<img width=750 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/ff45e61d-8f51-4cba-ace9-4309e1834492"></img>
 		<br></br>
+		<!--CS_466_Software_Engineering_Final_Project WIDGET-->
+		<a href="https://github.com/krish7201/CS_466_Software_Engineering_Final_Project">
+		<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=CS_466_Software_Engineering_Final_Project&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		</a>
+		<br></br>
+		<!--CS_466_Software_Engineering_Final_Project IMAGES-->
+		<img width=750 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/e71bd03c-820d-4c30-84c6-7cefc4e57e7b"></img>
+		<img width=750 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/ff45e61d-8f51-4cba-ace9-4309e1834492"></img>
+		<br></br>
 		<!--CAESAR CIPHER WIDGET-->
 		<a href="https://github.com/krish7201/CS_466_Cyber_Security_Final_Project">
 			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=CS_466_Cyber_Security_Final_Project&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
