@@ -32,6 +32,15 @@
 		<img width=250 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229576376-8adf4931-b553-4b20-b65f-d97b0cdac18a.png"></img>
 		<img width=525 align="center" alt="Screenshot Caesar Cipher GUI" src="https://user-images.githubusercontent.com/44722635/229578036-5b8cddb0-3602-40bd-9b50-e343c934cc98.png"></img>
 		<br></br>
+		<!--Generic_Search_Engine_Mockup WIDGET-->
+		<a href="https://github.com/krish7201/Generic_Search_Engine_Mockup">
+		<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Generic_Search_Engine_Mockup&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		</a>
+		<br></br>
+		<!--Generic_Search_Engine_Mockup IMAGES-->
+		<img src="https://github.com/krish7201/generic-search-engine-mockup/blob/main/Favicon.png" height="50%" width="50%"></img>
+		<img src="https://github.com/user-attachments/assets/336061b8-a391-473d-8c69-d664262a8696" height="50%" width="100%"></img>
+		<br></br>
 		<!--AWS/GCP WIDGET-->
 		<a href="https://github.com/krish7201/AWS-GCP-Website-Transaction">
 			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=AWS-GCP-Website-Transaction&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
