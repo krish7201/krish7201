@@ -39,7 +39,7 @@
 		<br></br>
 		<!--Generic_Search_Engine_Mockup IMAGES-->
 		<img width=250 align="center" src="https://github.com/krish7201/generic-search-engine-mockup/blob/main/Favicon.png"></img>
-		<img width=250 align="center" src="https://github.com/user-attachments/assets/336061b8-a391-473d-8c69-d664262a8696"></img>
+		<img width=525 align="center" src="https://github.com/user-attachments/assets/336061b8-a391-473d-8c69-d664262a8696"></img>
 		<br></br>
 		<!--AWS/GCP WIDGET-->
 		<a href="https://github.com/krish7201/AWS-GCP-Website-Transaction">
