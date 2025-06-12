@@ -29,7 +29,7 @@
 		</a>
 		<br></br>
 		<!--CS_490_Independent_Research IMAGES-->
-		<img width=500 align="center" alt="" src="https://github.com/user-attachments/assets/9a2f674a-2268-4e90-a485-42ff65091f34"></img>
+		<img width=375 align="center" alt="" src="https://github.com/user-attachments/assets/9a2f674a-2268-4e90-a485-42ff65091f34"></img>
 		<img width=500 align="center" alt="" src="https://github.com/user-attachments/assets/06a05a38-4759-4df5-b7fd-3147bd3e3bd8"></img>
 		<br></br>
 		<!--krish7201.github.io WIDGET-->
