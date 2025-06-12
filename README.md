@@ -29,8 +29,8 @@
 		</a>
 		<br></br>
 		<!--CS_490_Independent_Research IMAGES-->
-		<img width=250 align="center" alt="" src="https://github.com/user-attachments/assets/9a2f674a-2268-4e90-a485-42ff65091f34"></img>
-		<img width=600 align="center" alt="" src="https://github.com/user-attachments/assets/40e49666-8136-494c-bad4-6f8e1d11af5a"></img>
+		<img width=500 align="center" alt="" src="https://github.com/user-attachments/assets/9a2f674a-2268-4e90-a485-42ff65091f34"></img>
+		<img width=500 align="center" alt="" src="https://github.com/user-attachments/assets/40e49666-8136-494c-bad4-6f8e1d11af5a"></img>
 		<br></br>
 		<!--krish7201.github.io WIDGET-->
 		<a href="https://github.com/krish7201/krish7201.github.io">
