@@ -32,6 +32,15 @@
 		<img width=375 align="center" alt="" src="https://github.com/user-attachments/assets/9a2f674a-2268-4e90-a485-42ff65091f34"></img>
 		<img width=500 align="center" alt="" src="https://github.com/user-attachments/assets/06a05a38-4759-4df5-b7fd-3147bd3e3bd8"></img>
 		<br></br>
+		<!--Surgical_Technology_Case_Log_Application WIDGET-->
+		<a href="https://github.com/krish7201/Surgical_Technology_Case_Log_Application">
+		<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Surgical_Technology_Case_Log_Application&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		</a>
+		<br></br>
+		<!--Surgical_Technology_Case_Log_Application IMAGES-->
+		<img width=500 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/d348ef4c-162b-4abb-a3b6-2021d1c76cec"></img>
+		<img width=375 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/da28ee98-2ff0-42c4-89ab-0bcdf69af974"></img>
+		<br></br>
 		<!--krish7201.github.io WIDGET-->
 		<a href="https://github.com/krish7201/krish7201.github.io">
 		<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=krish7201.github.io&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
