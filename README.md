@@ -23,6 +23,15 @@
 <!--MAIN CONTENT-->
 <body>
 	<div align=center>
+		<!--CS_490_Independent_Research WIDGET-->
+		<a href="https://github.com/krish7201/CS_490_Independent_Research">
+		<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=CS_490_Independent_Research&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		</a>
+		<br></br>
+		<!--CS_490_Independent_Research IMAGES-->
+		<img width=750 align="center" alt="" src="https://github.com/user-attachments/assets/9a2f674a-2268-4e90-a485-42ff65091f34"></img>
+		<img width=750 align="center" alt="" src="https://github.com/user-attachments/assets/40e49666-8136-494c-bad4-6f8e1d11af5a"></img>
+		<br></br>
 		<!--krish7201.github.io WIDGET-->
 		<a href="https://github.com/krish7201/krish7201.github.io">
 		<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=krish7201.github.io&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
