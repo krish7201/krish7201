@@ -74,12 +74,12 @@
 		</a>
 		<br></br>
 		<!--Generic_Search_Engine_Mockup IMAGES-->
-		<img width=500 align="center" src="https://github.com/user-attachments/assets/25dac153-ce88-4363-91b4-6563689109e6" height="50%" width="100%"></img>
+		<img width=525 align="center" src="https://github.com/user-attachments/assets/25dac153-ce88-4363-91b4-6563689109e6" height="50%" width="100%"></img>
 		<img width=250 align="center" src="https://github.com/krish7201/Generic_Search_Engine_Mockup/blob/main/assets/Favicon.png"></img>
 		<img width=525 align="center" src="https://github.com/user-attachments/assets/336061b8-a391-473d-8c69-d664262a8696"></img>
 		<img width=525 align="center" src="https://github.com/krish7201/Generic_Search_Engine_Mockup/blob/main/assets/Logo.png" height="50%" width="100%"></img>
 		<img width=525 align="center" src="https://github.com/user-attachments/assets/3b45b33a-cd3a-4c9b-98ff-cd2bed532c9f" height="50%" width="100%"></img>
-		<img width=500 align="center" src="https://github.com/user-attachments/assets/54bbca0d-10bb-454e-a91f-5ebd10a9d056" height="50%" width="100%"></img>
+		<img width=525 align="center" src="https://github.com/user-attachments/assets/54bbca0d-10bb-454e-a91f-5ebd10a9d056" height="50%" width="100%"></img>
 		<br></br>
 		<!--AWS/GCP WIDGET-->
 		<a href="https://github.com/krish7201/CS_466_Cloud_Computing_Final_Project">
