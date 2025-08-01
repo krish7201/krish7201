@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <h1 align="center">
-        <u> Hi, my name is <a class="name"> Kris </a> . </u> 😬
+        <u> Hi, my name is <a class="name"> Kris </a> . </u>
       </h1>
       <style>
         h1 {
@@ -55,3 +55,4 @@
     </div>
   </foreignObject>
 </svg>
+
