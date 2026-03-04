@@ -6,13 +6,13 @@
 	<!--MY NAME GRAPHIC-->
 	<div>
 		<a href="https://youtu.be/Kg4Ol_J21oI">
-			<img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="50%" width="100%"></img>
+			<img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="50vh" width="100%"></img>
 		</a>
 	</div>
 	<!--GITHUB STATS-->
 	<div align=center>
 		<a href="https://github.com/krish7201?tab=repositories">
-			<img src="https://github.com/krish7201/krish7201/blob/main/github projects language widget psd.svg" height="50%" width="100%"></img>
+			<img src="https://github.com/krish7201/krish7201/blob/main/github projects language widget psd.svg" height="50vh" width="100%"></img>
 		</a>
 		<a href="https://github.com/krish7201?tab=repositories">
 			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&icon_color=fff&show_icons=true&rank_icon=github"></img>
@@ -25,7 +25,7 @@
 	<div align=center>
 		<!--CS_490_Independent_Research WIDGET-->
 		<a href="https://github.com/krish7201/CS_490_Independent_Research">
-		<img src="https://github.com/krish7201/krish7201/blob/main/1.svg" height="50%" width="100%"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/1.svg" height="50vh" width="100%"></img>
 		</a>
 		<br></br>
 		<!--CS_490_Independent_Research IMAGES-->
@@ -34,7 +34,7 @@
 		<br></br>
 		<!--Surgical_Technology_Case_Log_Application WIDGET-->
 		<a href="https://github.com/krish7201/Surgical_Technology_Case_Log_Application">
-		<img src="https://github.com/krish7201/krish7201/blob/main/2.svg" height="50%" width="100%"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/2.svg" height="50vh" width="100%"></img>
 		</a>
 		<br></br>
 		<!--Surgical_Technology_Case_Log_Application IMAGES-->
@@ -43,7 +43,7 @@
 		<br></br>
 		<!--krish7201.github.io WIDGET-->
 		<a href="https://github.com/krish7201/krish7201.github.io">
-		<img src="https://github.com/krish7201/krish7201/blob/main/3.svg" height="50%" width="100%"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/3.svg" height="50vh" width="100%"></img>
 		</a>
 		<br></br>
 		<!--krish7201.github.io IMAGES-->
@@ -52,7 +52,7 @@
 		<br></br>
 		<!--CS_466_Software_Engineering_Final_Project WIDGET-->
 		<a href="https://github.com/krish7201/CS_466_Software_Engineering_Final_Project">
-		<img src="https://github.com/krish7201/krish7201/blob/main/4.svg" height="50%" width="100%"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/4.svg" height="50vh" width="100%"></img>
 		</a>
 		<br></br>
 		<!--CS_466_Software_Engineering_Final_Project IMAGES-->
@@ -61,7 +61,7 @@
 		<br></br>
 		<!--CAESAR CIPHER WIDGET-->
 		<a href="https://github.com/krish7201/CS_466_Cyber_Security_Final_Project">
-		<img src="https://github.com/krish7201/krish7201/blob/main/5.svg" height="50%" width="100%"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/5.svg" height="50vh" width="100%"></img>
 		</a>
 		<br></br>
 		<!--CAESAR CIPHER IMAGES-->
@@ -70,7 +70,7 @@
 		<br></br>
 		<!--Generic_Search_Engine_Mockup WIDGET-->
 		<a href="https://github.com/krish7201/Generic_Search_Engine_Mockup">
-		<img src="https://github.com/krish7201/krish7201/blob/main/6.svg" height="50%" width="100%"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/6.svg" height="50vh" width="100%"></img>
 		</a>
 		<br></br>
 		<!--Generic_Search_Engine_Mockup IMAGES-->
@@ -82,7 +82,7 @@
 		<br></br>
 		<!--AWS/GCP WIDGET-->
 		<a href="https://github.com/krish7201/CS_466_Cloud_Computing_Final_Project">
-		<img src="https://github.com/krish7201/krish7201/blob/main/7.svg" height="50%" width="100%"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/7.svg" height="50vh" width="100%"></img>
 		</a>
 		<br></br>
 		<!--AWS/GCP IMAGES-->
@@ -91,7 +91,7 @@
 		<br></br>
 		<!--PROFILE PICTURE GENERATOR WIDGET-->
 		<a href="https://github.com/krish7201/Profile-Picture-Generator">
-		<img src="https://github.com/krish7201/krish7201/blob/main/8.svg" height="50%" width="100%"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/8.svg" height="50vh" width="100%"></img>
 		</a>
 		<br></br>
 		<!--PROFILE PICTURE GENERATOR IMAGES-->
@@ -104,7 +104,7 @@
 		<br></br>
 		<!--WEBSITE WIDGET-->
 		<a href="https://github.com/krish7201/Generic_Artist_Page">
-		<img src="https://github.com/krish7201/krish7201/blob/main/9.svg" height="50%" width="100%"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/9.svg" height="50vh" width="100%"></img>
 		</a>
 		<br></br>
 		<!--WEBSITE IMAGES-->
