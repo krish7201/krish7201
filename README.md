@@ -61,7 +61,7 @@
 		<br></br>
 		<!--CAESAR CIPHER WIDGET-->
 		<a href="https://github.com/krish7201/CS_466_Cyber_Security_Final_Project">
-			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=CS_466_Cyber_Security_Final_Project&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/5.svg" height="120px" width="100%"></img>
 		</a>
 		<br></br>
 		<!--CAESAR CIPHER IMAGES-->
@@ -125,6 +125,7 @@
 	<br></br>
 </footer>
 </html>
+
 
 
 
