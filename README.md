@@ -14,8 +14,6 @@
 		<a href="https://github.com/krish7201?tab=repositories">
 			<img src="https://github.com/krish7201/krish7201/blob/main/github projects language widget psd.svg" height="150vh" width="100%"></img>
 		</a>
-		<a href="https://github.com/krish7201?tab=repositories">
-			<img width=auto align="center" src="https://github-readme-stats.vercel.app/api?username=krish7201&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&icon_color=fff&show_icons=true&rank_icon=github"></img>
 	</div>
 </head>
 <!--SEPARATOR-->
@@ -125,6 +123,7 @@
 	<br></br>
 </footer>
 </html>
+
 
 
 
