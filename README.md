@@ -25,7 +25,7 @@
 	<div align=center>
 		<!--CS_490_Independent_Research WIDGET-->
 		<a href="https://github.com/krish7201/CS_490_Independent_Research">
-		<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=CS_490_Independent_Research&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/1.svg" height="120px" width="100%"></img>
 		</a>
 		<br></br>
 		<!--CS_490_Independent_Research IMAGES-->
@@ -125,3 +125,4 @@
 	<br></br>
 </footer>
 </html>
+
