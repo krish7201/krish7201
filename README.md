@@ -70,7 +70,7 @@
 		<br></br>
 		<!--Generic_Search_Engine_Mockup WIDGET-->
 		<a href="https://github.com/krish7201/Generic_Search_Engine_Mockup">
-		<img width=auto align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish7201&repo=Generic_Search_Engine_Mockup&bg_color=0a0e12&title_color=fff&text_color=fff&border_color=fff&show_icons=true"></img>
+		<img src="https://github.com/krish7201/krish7201/blob/main/6.svg" height="120px" width="100%"></img>
 		</a>
 		<br></br>
 		<!--Generic_Search_Engine_Mockup IMAGES-->
@@ -125,6 +125,7 @@
 	<br></br>
 </footer>
 </html>
+
 
 
 
