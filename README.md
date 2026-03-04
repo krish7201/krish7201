@@ -12,7 +12,7 @@
 	<!--GITHUB STATS-->
 	<div align=center>
 		<a href="https://github.com/krish7201?tab=repositories">
-			<img src="https://github.com/krish7201/krish7201/blob/main/github projects language widget psd.svg" height="150vh" width="100%"></img>
+			<img src="https://github.com/krish7201/krish7201/blob/main/github project widget psd.svg" height="150vh" width="100%"></img>
 		</a>
 	</div>
 </head>
@@ -123,6 +123,7 @@
 	<br></br>
 </footer>
 </html>
+
 
 
 
