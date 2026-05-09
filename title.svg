@@ -2,12 +2,12 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <h1 align="center">
-        <u><a class="name"> krish7201 </a> . </u>
+        <u><a class="name"> krish7201 </a>. </u>
       </h1>
       <style>
         h1 {
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-          font-size: 20vw;
+          font-size: 100vw;
           color: #7A7A7A;
         }
         .name {
