@@ -1,6 +1,51 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <meta charset="UTF-8">
+<head>
+	<style>
+        h1 {
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+          font-size: 20vw;
+          color: #7A7A7A;
+        }
+        .name {
+          background: linear-gradient(120deg, #2d235b, #463369, #5f4379, #78548b, #91669b, #ab78ac, #b283ba, #a388c1, #908dc3, #7c92be, #6996b5, #5c99a8);
+          background-size: 1000% 1000%;
+          -webkit-background-clip: text;
+          -moz-background-clip: text;
+          -o-background-clip: text;
+          background-clip: text;
+          -webkit-text-fill-color: transparent;
+          -moz-text-fill-color: transparent;
+          -o-text-fill-color: transparent;
+          text-fill-color: transparent;
+          -webkit-animation: AnimationName 10s ease infinite;
+          -moz-animation: AnimationName 10s ease infinite;
+          -o-animation: AnimationName 10s ease infinite;
+          animation: AnimationName 10s ease infinite;
+        }
+        @-webkit-keyframes AnimationName {
+          0% {background-position: 38% 0%}
+          50% {background-position: 63% 100%}
+          100% {background-position: 38% 0%}
+        }
+        @-moz-keyframes AnimationName {
+          0% {background-position: 38% 0%}
+          50% {background-position: 63% 100%}
+          100% {background-position: 38% 0%}
+        }
+        @-o-keyframes AnimationName {
+          0% {background-position: 38% 0%}
+          50% {background-position: 63% 100%}
+          100% {background-position: 38% 0%}
+        }
+        @keyframes AnimationName {
+          0% {background-position: 38% 0%}
+          50% {background-position: 63% 100%}
+          100% {background-position: 38% 0%}
+        }
+      </style>
+</head>
 <!--HEADER CONTENT-->
 <header>
 	<!--MY NAME GRAPHIC-->
