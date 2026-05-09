@@ -7,7 +7,7 @@
 <header>
 	<!--MY NAME GRAPHIC-->
 	<div>
-		<a href="https://youtu.be/Kg4Ol_J21oI">
+		<a href="https://youtu.be/Kg4Ol_J21oI" align="center">
 			<img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="200vh" width="400vw"></img>
 		</a>
 	</div>
