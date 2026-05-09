@@ -4,9 +4,7 @@
 <!--HEADER CONTENT-->
 <header>
 	<!--MY NAME GRAPHIC-->
-	<div>
-		<h1 align="center">krish7201</h1>
-	</div>
+	<h1 align="center">krish7201</h1>
 	<!--GITHUB STATS-->
 	<div align=center>
 		<a href="https://github.com/krish7201?tab=repositories">
