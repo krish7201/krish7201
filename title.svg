@@ -8,13 +8,7 @@
         h1 {
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
           font-size: 60px;
-          color: #ffffff;
-        }
-
-        @media (prefers-color-scheme: light) {
-          h1 {
-            color: #000000;
-          }
+          color: #7A7A7A;
         }
         .name {
           background: linear-gradient(120deg, #2d235b, #463369, #5f4379, #78548b, #91669b, #ab78ac, #b283ba, #a388c1, #908dc3, #7c92be, #6996b5, #5c99a8);
