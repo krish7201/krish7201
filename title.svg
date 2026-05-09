@@ -7,7 +7,7 @@
       <style>
         h1 {
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-          font-size: 100vw;
+          font-size: 50vw;
           color: #7A7A7A;
         }
         .name {
