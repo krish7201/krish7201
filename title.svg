@@ -11,6 +11,11 @@
           color: #ffffff;
         }
 
+        @media (prefers-color-scheme: light) {
+          h1 {
+            color: #000000;
+          }
+        }
         .name {
           background: linear-gradient(120deg, #2d235b, #463369, #5f4379, #78548b, #91669b, #ab78ac, #b283ba, #a388c1, #908dc3, #7c92be, #6996b5, #5c99a8);
           background-size: 1000% 1000%;
