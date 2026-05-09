@@ -8,7 +8,7 @@
 	<!--MY NAME GRAPHIC-->
 	<div>
 		<a href="https://youtu.be/Kg4Ol_J21oI">
-			<img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="100vh" width="400vw"></img>
+			<img src="https://github.com/krish7201/krish7201/blob/main/title.svg" height="100vh" width="200vw"></img>
 		</a>
 	</div>
 	<!--GITHUB STATS-->
