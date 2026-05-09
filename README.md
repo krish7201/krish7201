@@ -48,7 +48,7 @@
 		<br></br>
 		<!--krish7201.github.io IMAGES-->
 		<embed align="center" src="http://www.krish7201.github.io" style="width:750px;">
-		<img width=750 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/c6fa7cfa-094f-4262-a5d7-bbab4a0942ce"></img>
+		<img width=750 align="center" alt="Screenshot Caesar Cipher GUI" src="https://github.com/user-attachments/assets/8212f6cb-a70f-4460-b6ef-1c5b133601ba"></img>
 		<br></br>
 		<!--CS_466_Software_Engineering_Final_Project WIDGET-->
 		<a href="https://github.com/krish7201/CS_466_Software_Engineering_Final_Project">
