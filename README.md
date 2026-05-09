@@ -5,7 +5,7 @@
 <header>
 	<!--MY NAME GRAPHIC-->
 	<div>
-		<h1 align="center"><a class="name"> krish7201</a></h1>
+		<h1 align="center">krish7201</h1>
 	</div>
 	<!--GITHUB STATS-->
 	<div align=center>
